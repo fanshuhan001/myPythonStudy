@@ -1,0 +1,4 @@
+# --coding: utf-8 --
+This is stuff I typed into a file.
+It is really cool stuff.
+任霏是个大美女。
